@@ -1,4 +1,4 @@
-# AI-image-upscaler 👨‍💻🎨 (Experimental)
+# Basic AI-image-upscaler 👨‍💻🎨 (Experimental)
 Application that uses artificial intelligence to increase the resolution of images, making them larger while enhancing details and maintaining or improving image quality.
 
 
