@@ -1,9 +1,11 @@
 # AI-image-upscaler 👨‍💻🎨 (Experimental)
-application that uses artificial intelligence to increase the resolution of images, making them larger while enhancing details and maintaining or improving image quality.
+Application that uses artificial intelligence to increase the resolution of images, making them larger while enhancing details and maintaining or improving image quality.
+
 
 Key Components
 ------------------
 Imports:
+
 -torch: For neural network operations.
 
 -PIL: For image processing.
@@ -24,3 +26,5 @@ Estimates the time required for upscaling.
 -Graphical User Interface (GUI):
 Provides an easy-to-use interface for users.
 
+
+(Just a quick note: Keep in mind that this type of project demands a lot of resources at the hardware level, I recommend a powerful CPU and GPU.)
