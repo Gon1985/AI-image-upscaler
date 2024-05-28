@@ -26,5 +26,8 @@ Estimates the time required for upscaling.
 -Graphical User Interface (GUI):
 Provides an easy-to-use interface for users.
 
+------------------
 
-(Just a quick note: Keep in mind that this type of project demands a lot of resources at the hardware level, I recommend a powerful CPU and GPU.)
+This is an experimental project using ESRGAN. For more information, search its official repo.
+🚧 Attention: Project results may vary.🚧
+Just a quick note: Keep in mind that this type of project demands a lot of resources at the hardware level, I recommend a powerful CPU and GPU.
